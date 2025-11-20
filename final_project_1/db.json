@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "test",
+      "email": "test@example.com",
+      "password": "password"
+    },
+    {
+      "id": "7c44",
+      "username": "mel",
+      "email": "mel@yahoo.com",
+      "password": "password"
+    },
+    {
+      "id": "8da6",
+      "username": "hialalalaa",
+      "email": "haa@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "63a4",
+      "username": "sky",
+      "email": "sky@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "9755",
+      "username": "fame",
+      "email": "fame@gmail.com",
+      "password": "wasd"
+    }
+  ],
+  "task-lists": [
+    {
+      "id": "1",
+      "name": "Level 1",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "name": "Level 2",
+      "level": 2
+    }
+  ],
+  "tasks": [
+    {
+      "id": "7967",
+      "taskListId": "1",
+      "title": "w",
+      "dateTime": "2025-11-05T08:33:00.000",
+      "username": "mel"
+    },
+    {
+      "id": "eec4",
+      "taskListId": "1",
+      "title": "e",
+      "dateTime": "2025-11-05T12:33:00.000",
+      "username": "mel"
+    },
+    {
+      "id": "7cf7",
+      "taskListId": "1",
+      "title": "try",
+      "dateTime": "2025-11-05T12:51:00.000",
+      "username": "mel"
+    },
+    {
+      "id": "8143",
+      "taskListId": "1",
+      "title": "g",
+      "dateTime": "2025-11-06T03:50:00.000",
+      "username": "mel"
+    },
+    {
+      "id": "d996",
+      "taskListId": "2",
+      "title": "m",
+      "dateTime": "2025-11-06T03:52:00.000",
+      "username": "mel"
+    },
+    {
+      "id": "f742",
+      "taskListId": "2",
+      "title": "test",
+      "dateTime": "2025-11-06T03:56:00.000",
+      "username": "mel"
+    },
+    {
+      "id": "835f",
+      "title": "1",
+      "dateTime": "2025-11-16T18:07:00.000",
+      "notes": "q",
+      "username": "sky"
+    },
+    {
+      "id": "b993",
+      "title": "2",
+      "dateTime": "2025-11-16T22:44:00.000",
+      "notes": "qw",
+      "username": "sky"
+    },
+    {
+      "title": "61",
+      "dateTime": "2025-11-24T18:17:00.000",
+      "notes": "qwerty",
+      "id": "e5e9"
+    },
+    {
+      "id": "40f2",
+      "title": "12",
+      "dateTime": "2025-11-19T18:00:00.000",
+      "notes": "12345",
+      "username": "fame"
+    },
+    {
+      "id": "49ae",
+      "title": "123",
+      "dateTime": "2025-11-18T20:06:00.000",
+      "notes": "1243",
+      "username": "fame"
+    }
+  ],
+  "user-progress": [
+    {
+      "id": "1",
+      "userId": "1",
+      "tasksCreated": 0,
+      "tasksDone": 0
+    },
+    {
+      "id": "2",
+      "userId": "7c44",
+      "tasksCreated": 0,
+      "tasksDone": 0
+    },
+    {
+      "id": "3",
+      "userId": "8da6",
+      "tasksCreated": 0,
+      "tasksDone": 0
+    },
+    {
+      "userId": "63a4",
+      "tasksCreated": 0,
+      "tasksDone": 21,
+      "id": "4"
+    },
+    {
+      "id": "6b22",
+      "userId": "9755",
+      "tasksCreated": 0,
+      "tasksDone": 5,
+      "lastTaskTitle": "5",
+      "lastTaskCompletionTime": "2025-11-18T18:27:29.044",
+      "completedTasks": [
+        {
+          "title": "trial 1",
+          "completionDate": "2025-11-18T18:27:29.044"
+        },
+        {
+          "title": "trial 2",
+          "completionDate": "2025-11-18T18:27:29.044"
+        },
+        {
+          "title": "trial 3",
+          "completionDate": "2025-11-18T18:27:29.044"
+        },
+        {
+          "title": "trial 4",
+          "completionDate": "2025-11-18T18:27:29.045"
+        },
+        {
+          "title": "5",
+          "completionDate": "2025-11-18T18:27:29.045"
+        }
+      ]
+    }
+  ]
+}
