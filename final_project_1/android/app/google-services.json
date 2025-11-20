@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364302023870",
+    "project_id": "notiva-2025",
+    "storage_bucket": "notiva-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364302023870:android:bd86f1dcb55eae6c8c32ef",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHF7W06yJgpr4tszP9weL3k2pcs8XLJdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364302023870:android:52f4df59e91a04698c32ef",
+        "android_client_info": {
+          "package_name": "com.example.final_project_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHF7W06yJgpr4tszP9weL3k2pcs8XLJdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
